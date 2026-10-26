@@ -84,6 +84,10 @@ A stub is right when the back of the bend measures within 1/8 in. of the target.
 
 A dog leg is scrap. Bending a stick back and forth to chase a mistake splits the seam. Cut the bad bend off or drop the whole stick in the short bin.
 
+## Changes
+
+`main` takes work through a pull request. A commit may include every file that belongs to that change.
+
 ## Sources the numbers come from
 
 Layout steps and the rounded multiplier chart match the trade method printed in hand-bender instructions and written up the same way by VoltageLab (offsets, saddles, Klein take-up stamps of 5 in., 6 in., and 8 in.) and by the Panda Taps bending notes (the 60 in. / 6 in. / 30° worked offset). The 360° rule is the limit Mike Holt stated for 358.26 in EC&M on May 25, 2023. Confirm every code sentence against the book adopted for this class before you treat a subsection as fixed.
